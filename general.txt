@@ -1,8 +1,8 @@
-#profile-update-interval: 1
-#profile-title: ❄ CID VPN ⛄
-#support-url: https://t.me/CID_VPN_HELP_bot
-#profile-web-page-url: https://t.me/CID_VPN
-#announce: Готов ускорить ваш интернет!
+#profile-title:🍏 CID VPN 🍏
+#profile-update-interval:1
+#support-url:https://t.me/CID_VPN_HELP_bot
+#profile-web-page-url:https://t.me/CID_VPN
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://799e8287-0e67-41b1-889b-3277264d302c@hi4.afraseda.ir:2053?mode=auto&path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=xhttp&sni=myopen.tencan.ir#0001 - Australia @CID_VPN
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@by.cdn.titun.su:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=cad317b20db4aad2&sni=by.cdn.titun.su#0002 - Belarus @CID_VPN
@@ -206,3 +206,4 @@ vless://73635d7b-3e4a-4519-8d1e-d194ec5bcb29@fasty.hamrahx.ir:80?security=none&t
 vless://442ed0ac-c945-41ee-8bb5-8ee69ef50456@daltoon.best-cloud.ir:8443?encryption=none&type=xhttp&mode=auto&host=speed.daltoon-server.ir&path=%2F%3Fed%3D2056&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=speed.daltoon-server.ir#0200 - USA @CID_VPN
 vless://799e8287-0e67-41b1-889b-3277264d302c@hi5.afraseda.ir:2053?mode=auto&path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=xhttp&sni=myopen.tencan.ir#0201 - USA @CID_VPN
 vless://799e8287-0e67-41b1-889b-3277264d302c@carlos1.benjem.ir:443?mode=auto&path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=myopen.tencan.ir#0202 - USA @CID_VPN
+

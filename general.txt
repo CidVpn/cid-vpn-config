@@ -1,7 +1,7 @@
 #profile-title:🍏 CID VPN 🍏
 #profile-update-interval:1
 #support-url:https://t.me/CID_VPN_HELP_bot
-#profile-web-page-url: https://t.me/CID_VPN
+#profile-web-page-url:https://t.me/CID_VPN
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA@154.26.155.172:80#0001 - Australia @CID_VPN
@@ -696,4 +696,5 @@ vless://58f34930-c684-4c43-bf17-184974aa6da3@meow-amsterdam.nethcloud.top:8443?t
 vless://cbe70d02-1820-43d5-aaaa-6441d0c60890@45.15.129.22:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&sni=timeweb.cloud#0690 - Unknown @CID_VPN
 vless://5a17e575-61c9-4468-a9fb-192bee5906bc@78.159.247.216:3443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&sni=max.ru#0691 - Unknown @CID_VPN
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955?type=grpc&security=reality&encryption=none&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&sni=one-piece.com&serviceName=grpc#0692 - Unknown @CID_VPN
+
 
